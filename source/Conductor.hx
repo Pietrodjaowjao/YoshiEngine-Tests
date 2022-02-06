@@ -38,6 +38,12 @@ class Conductor
 	/**
 	 * Song position in milliseconds
 	 */
+	public static var newstepCrochet:Float = 4; // steps in milliseconds
+	
+
+	/**
+	 * Song position in milliseconds
+	 */
 	public static var songPosition:Float;
 
 	/**
@@ -116,6 +122,8 @@ class Conductor
 		bpm = newBpm;
 
 		crochet = ((60 / bpm) * 1000);
+		newcrochet = ((120) * 1000);
 		stepCrochet = crochet / 4;
+		newstepCrochet = crochet 4;
 	}
 }
