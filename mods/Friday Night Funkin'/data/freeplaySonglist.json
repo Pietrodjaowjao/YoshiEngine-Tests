@@ -1,0 +1,113 @@
+{
+    "songs" : [
+        {
+            "name" : "Tutorial",
+            "char" : "gf",
+            "color" : "#460021"
+        },
+
+
+        {
+            "name" : "Bopeebo",
+            "char" : "dad",
+            "color" : "#522167"
+        },
+        {
+            "name" : "Fresh",
+            "char" : "dad",
+            "color" : "#522167"
+        },
+        {
+            "name" : "Dadbattle",
+            "displayName" : "Dad Battle",
+            "char" : "dad",
+            "color" : "#522167"
+        },
+
+
+        {
+            "name" : "Spookeez",
+            "char" : "spooky",
+            "color" : "#6A4000"
+        },
+        {
+            "name" : "South",
+            "char" : "spooky",
+            "color" : "#6A4000"
+        },
+        {
+            "name" : "Monster",
+            "char" : "monster",
+            "color" : "#6A4000"
+        },
+
+
+        {
+            "name" : "Pico",
+            "char" : "pico",
+            "color" : "#6F8820"
+        },
+        {
+            "name" : "Philly",
+            "displayName" : "Philly Nice",
+            "char" : "pico",
+            "color" : "#6F8820"
+        },
+        {
+            "name" : "Blammed",
+            "char" : "pico",
+            "color" : "#6F8820"
+        },
+
+
+        {
+            "name" : "Satin-Panties",
+            "char" : "mom",
+            "color" : "#801E47"
+        },
+        {
+            "name" : "High",
+            "char" : "mom",
+            "color" : "#801E47"
+        },
+        {
+            "name" : "MILF",
+            "char" : "mom",
+            "color" : "#801E47"
+        },
+
+        
+        {
+            "name" : "Cocoa",
+            "char" : "parents-christmas",
+            "color" : "#1A4D37"
+        },
+        {
+            "name" : "Eggnog",
+            "char" : "parents-christmas",
+            "color" : "#1A4D37"
+        },
+        {
+            "name" : "Winter-Horrorland",
+            "char" : "monster",
+            "color" : "#1A4D37"
+        },
+
+        
+        {
+            "name" : "Senpai",
+            "char" : "senpai",
+            "color" : "#953C00"
+        },
+        {
+            "name" : "Roses",
+            "char" : "senpai",
+            "color" : "#953C00"
+        },
+        {
+            "name" : "Thorns",
+            "char" : "spirit",
+            "color" : "#953C00"
+        }
+    ]
+}
